@@ -99,7 +99,7 @@ padding-left: 0.5em;
     font-family: 'Source Sans Pro', sans-serif;
 }
   .midContent {
-      background-image: url(/images/coworking.jpg);
+      background-image: url(images/coworking.jpg);
       background-size: cover;
       height:422px;
       display: flex;
